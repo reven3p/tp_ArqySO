@@ -1,0 +1,33 @@
+    1  pwd
+    2  mkdir tp_ArqySO
+    3  cd tp_ArqySO
+    4  ls
+    5  n
+    6  bash..
+    7  root bash..
+    8  bash..
+    9  bash ..
+   10  pwd
+   11  cd ..
+   12  pwd
+   13  rm -r tp_ArqySO
+   14  ls
+   15  pwd
+   16  mkdir tp_ArqySO
+   17  cd tp_ArqySO
+   18  ls
+   19  pws
+   20  pwd
+   21  git init
+   22  sudo apt install git -y
+   23  git init
+   24  touch README.md
+   25  touch datos_usuario.txt
+   26  ls
+   27  git add .
+   28  git status
+   29  git commit -m PrimerCommit
+   30  git config --global user.name Nahuel
+   31  git config --global user.email nahuel@utn.com
+   32  git commit -m PrimerCommit
+   33  history > historial_comandos.txt
